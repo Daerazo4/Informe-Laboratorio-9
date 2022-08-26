@@ -14,7 +14,7 @@
 
 ## 2. MARCO TEÓRICO
 
-
+![](https://github.com/emcabascango1/MAPA-DE-TALLER/blob/main/Diagrama%20en%20blanco.png)
 
 ## 3. MATERIALES Y EQUIPOS
 
